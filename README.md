@@ -1,4 +1,7 @@
 # AI_image_processing
+<br>
 Author: Sharmila Bhaduri
-Description: This project all about AI and Ml
-Language: Python
+<br>
+<b>Description:<b> This project all about AI and Ml
+<br>
+<b>Language:<b> Python
